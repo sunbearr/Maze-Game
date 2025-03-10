@@ -4,6 +4,6 @@ Create and solve custom mazes.
 
 To run:
 
-javac Launcher.java
+> javac Launcher.java
 
-java Launcher GUI
+> java Launcher GUI
