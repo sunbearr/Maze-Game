@@ -14,4 +14,4 @@ javac Launcher.java
 java Launcher GUI (GUI mode)
 java Launcher *maze file name* (text mode)
 
-![Maze Game Screenshot](maze.png)
+![Maze Game Screenshot](maze.PNG)
