@@ -13,3 +13,5 @@ javac Launcher.java
 3. Launch the application:
 java Launcher GUI (GUI mode)
 java Launcher *maze file name* (text mode)
+
+![Maze Game Screenshot](maze.png)
